@@ -1,0 +1,11 @@
+package c1;
+
+public class Arquivo {
+
+	public String lerArquivo() {
+		
+	}
+	
+	
+	
+}

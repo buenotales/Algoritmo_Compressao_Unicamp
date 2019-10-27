@@ -1,0 +1,10 @@
+package c1;
+
+public class Texto {
+	
+	public String p;
+	public String x1 = "255";
+	public String x2 = "0";
+	public String x3 = "0";
+	
+}
